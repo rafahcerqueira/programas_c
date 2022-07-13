@@ -1,0 +1,5 @@
+﻿  ex06.cpp
+C:\Users\rafah\OneDrive\Área de Trabalho\Lista de Exercícios ALG\ex06\ex06\ex06.cpp(37,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafah\OneDrive\Área de Trabalho\Lista de Exercícios ALG\ex06\ex06\ex06.cpp(43,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\rafah\OneDrive\Área de Trabalho\Lista de Exercícios ALG\ex06\ex06\ex06.cpp(49,31): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  ex06.vcxproj -> C:\Users\rafah\OneDrive\Área de Trabalho\Lista de Exercícios ALG\ex06\x64\Debug\ex06.exe
